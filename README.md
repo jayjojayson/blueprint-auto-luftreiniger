@@ -1,4 +1,4 @@
-# blueprint-auto-luftreiniger v1.1
+# 𖣘 blueprint-auto-luftreiniger v1.1
 
 📘Dieser Blueprint schaltet (mehrere) Luftreiniger nach Entität, Schalter oder Schalter am Gerät ein und automatisch nach eingestelltem Luftwert wieder aus. Zeitversatz nachdem die Aktion ausgeführt wird liegt bei 3min.
 
